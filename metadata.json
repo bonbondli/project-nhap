@@ -1,0 +1,6 @@
+{
+  "name": "Toán Học Nhập Vai",
+  "description": "Ứng dụng chatbot toán học tương tác, đóng vai các nhân vật lịch sử và vui nhộn để giúp học sinh THCS (Lớp 6-9) học tập, giải đố và tích lũy điểm thưởng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
